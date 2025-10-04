@@ -1,3 +1,4 @@
+//Write a C program using a loop to check if a number is prime or not.
 #include <stdio.h>
 int main() 
 {
@@ -23,4 +24,5 @@ int main()
     else
         printf("%d is not a prime number as it is divisible by %d.\n", n, i);
     return 0;
+
 }
